@@ -1,3 +1,4 @@
+// g++ main.cpp tree.cpp -o main
 #include <iostream>
 #include <string>
 #include "tree.h"
